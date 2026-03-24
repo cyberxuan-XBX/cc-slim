@@ -102,9 +102,9 @@ These are rough estimates. For exact counts, use a tokenizer like `tiktoken`. Bu
 
 ## See Also
 
+- [prompt-slim](https://github.com/cyberxuan-XBX/prompt-slim) — Same idea, for any LLM. Supports Ollama, any system prompt file.
 - [skill-sanitizer](https://github.com/cyberxuan-XBX/skill-sanitizer) — Scan your Claude Code skills for security threats
-- cc-slim — Scan your config for performance bloat
-- One protects you, the other speeds you up. Install both.
+- Security, performance, and measurement. The toolkit.
 
 ## License
 
