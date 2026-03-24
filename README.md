@@ -10,6 +10,8 @@ Every extra 1K tokens in your prefix gets re-read every turn. At 30 turns/sessio
 
 Nobody measures this. This tool does.
 
+We built this tool in a single session. That session itself proved why you need it.
+
 ## Real Numbers
 
 One user's before/after:
